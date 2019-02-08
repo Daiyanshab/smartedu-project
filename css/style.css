@@ -1,0 +1,191 @@
+.navbar-brand{
+	font-weight: 600;
+}
+.navbar-brand i{
+	
+font-size: 30px;
+	
+padding-top: 0;
+	
+display: inline-block;
+}
+.navbar-brand span{
+
+font-size: 22px;
+}
+.navbar img {
+    width: 200px;
+    padding-top: 5px;
+}
+.container ul {
+	font-weight: 600;
+
+}
+.a {
+	color: black;
+}
+.banner-section	{
+	background-image: url(../images/banner.jpg);
+	min-height: 596px;
+	padding: 127px 0px;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+ /*
+    background: #ff850e;
+    color: #fff;
+    font-size: 15px;
+    width: 140px;
+    padding: 5px 20px;
+    text-transform: capitalize;
+    border-radius: 100px;
+    font-weight: 650;
+    display: block;*/
+
+section.category-section {
+    padding: 50px 0px;
+}
+.heading{
+	    padding-bottom: 20px;
+
+}
+hr{
+	    width: 10%;
+    border: 1px solid blue;
+}
+.cat-1{
+position: relative;
+}
+.cat-text{
+	
+position: absolute;
+	
+bottom: 0;
+	
+left: 30px;
+	
+color: #FFF;
+	
+z-index: 2;
+}
+.overlay-color{
+	
+position: absolute;
+top: 0;
+left: 0;
+background-color: #00800069;
+width: 100%;
+height: 100%;
+z-index: 1;
+opacity: 0;
+}
+.cat-1:hover .overlay-color{
+opacity: 1;
+}
+.our-defferences-section{
+	
+/* color: #908b8b; */
+	
+background-color: #e4dfdf91;
+}
+.popular-section{
+	background-image: url(../images/popular-bg.jpg);
+	background-color: white;
+	min-height: 500px;
+}
+
+
+.box-1{
+
+min-height: 68px;
+
+background: #314bdc;
+
+border: 1px solid blue;
+
+font-size: xx-large;
+
+font-weight: bold;
+
+text-align: center;
+
+padding-top: 21px;
+
+height: 207px;
+}
+.box-2{min-height: 60px;background: white;border: 1px solid white;}
+.rounded-circle {
+    width: 150px!important;
+    height: 150px!important;
+    border-radius: 50%!important;
+}
+.iconsection{
+	    padding: 80px 0px;
+	    background: #e4dfdf91;
+}
+.iconsection i{
+	font-size: 91px;
+	color: #8a7070;
+}
+.our-defferences-section  h1{font-size: 26px;font-weight: 700;}
+.our-defferences-section{
+	padding: 30px 0px;
+}
+.our-defferences-section a{
+	
+font-size: 30px;
+}
+.popular-section h5{
+
+color: gray;
+}
+.popular-section h4{
+
+}
+.popular-section p{
+
+color: gray;
+
+}
+.popular-section a{
+
+color: grey;
+
+padding-right: 12px;
+}
+
+.popular-section{
+	
+padding: 60px 0px;
+}
+.upcoming-section{
+    background: #dccfcf85;
+    padding: 70px 0px;
+};
+.upcoming-section .row h1{}
+.upcoming-section p{};
+.latestnews-section {
+    padding: 40px 0px;
+}
+.upcoming-section a {color: #524b4b; padding-right: 20px;}
+section.upcoming-section p {
+    color:  #524b4b;
+    
+}
+.latestnews-section{
+    padding: 60px 0px;
+}
+.latestnews-section a{
+    padding-right: 20px;
+}
+.latestnews-section p{
+    color: #635d5d;
+}
+.footer-section{
+    background: #343434;
+    color: white;
+}
+
+.footer-section i{color: white;padding-right: 10px;}
+
